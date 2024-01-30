@@ -136,9 +136,9 @@ params:
     # - name: stackoverflow
     #   url: "https://stackoverflow.com"
     - name: github
-      url: 'https://github.com/DejavuMoe/hugo-start'
-    - name: mastodon
-      url: 'https://sink.love/@dejavu'
+      url: 'https://github.com/nicosuki123/hugo-start'
+    #    - name: mastodon
+    #      url: 'https://sink.love/@dejavu'
 
   # 站长验证
   analytics:
@@ -157,9 +157,9 @@ params:
 
   # 关联编辑
   editPost:
-    URL: 'https://github.com/DejavuMoe/hugo-start/edit/master/content/posts'
-    Text: 'Edit on GitHub' # edit text
-    appendFilePath: true # to append file path to Edit link
+#    URL: 'https://github.com/DejavuMoe/hugo-start/edit/master/content/posts'
+#    Text: 'Edit on GitHub' # edit text
+#    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
