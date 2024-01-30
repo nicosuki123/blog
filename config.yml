@@ -102,7 +102,7 @@ params:
 
   label:
     # 使用文本替代 Logo 标签
-    text: 'Hugo Start'
+    text: 'Makura’s Blog'
     # 网站 Logo 图片（/static 下面的文件名称）
     icon: /apple-touch-icon.png
     # 图标高度
@@ -126,8 +126,8 @@ params:
 
   # 主页 - 信息模式（默认）
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to hugo start, this is a example of Hugo and PaperMod
+    Title: "Makura Blog \U0001F44B"
+    Content: What is mind? No matter. What is matter? Never mind.
 
   #  主页 - 信息模式 图标展示
   socialIcons:
