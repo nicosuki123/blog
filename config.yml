@@ -126,7 +126,7 @@ params:
 
   # 主页 - 信息模式（默认）
   homeInfoParams:
-    Title: "Makura Blog \U0001F44B"
+    Title: "Makura的个人博客 \U0001F44B"
     Content: What is mind? No matter. What is matter? Never mind.
 
   #  主页 - 信息模式 图标展示
